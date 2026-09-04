@@ -13,7 +13,7 @@
 
 ## 🚀 Quick Start
 
-1. Visit our live demo: [https://yourusername.github.io/quanza-browser](https://yourusername.github.io/quanza-browser)
+1. Visit our live demo: https://tushar3813.github.io/quanza-browser/
 2. Or download the HTML file and open it in any browser
 3. No installation required - works instantly!
 
@@ -78,8 +78,8 @@ Real-time statistics showing:
 
 ## 🔗 Links
 
-- **Live Demo**: [https://yourusername.github.io/quanza-browser](https://yourusername.github.io/quanza-browser)
-- **Report Issues**: [GitHub Issues](https://github.com/yourusername/quanza-browser/issues)
+- **Live Demo**: https://tushar3813.github.io/quanza-browser/
+- **Report Issues**: [GitHub Issues](https://tushar3813.github.io/quanza-browser/)
 - **Privacy Policy**: Coming soon
 
 ## 📄 License
